@@ -28,3 +28,4 @@ https://www.dropbox.com/s/e0d67e5wqsxsqmp/getting_started_with_sql_mac.zip?dl=1
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51A7fbsp0EL.jpg)
 
+
